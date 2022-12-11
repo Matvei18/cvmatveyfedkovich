@@ -16,10 +16,9 @@ function App() {
             <p>
               I'm a 2nd course student of Belarusian State University of Faculty
               of Mechanics and Mathematics for web-developer and mathematician.
-              I have knowledge of such programming languages as C++, Transact
-              SQL, JavaScript and its library React. Worked in applications like
-              Figma, Adobe Photoshop. Studied Web Design, Operational Systems
-              and Networks.
+              My programming languages: C++, Transact SQL, JavaScript. Worked 
+              in applications like Figma, Adobe Photoshop. Studied Web Design,
+              Operational Systems and Networks.
             </p>
           </div>
         </div>
