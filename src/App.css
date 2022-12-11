@@ -9,7 +9,6 @@ p{
   font-size: 1.5vw;
 }
 .wrapper{
-  width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -124,6 +123,7 @@ p{
   .visit{
     flex-direction: column;
     padding: 10px;
+    width: 95%;
     margin: 3vw 0 0;
     max-width: 1160px;
     max-height: 143vw;
@@ -188,7 +188,7 @@ p{
     margin: 2vw 0px;
     background-color: #FFFFFF;
     height: 5vw;
-    width: 80%;
+    width: 95%;
     max-width: 1160px;
     display: flex;
     align-items: center;
@@ -204,6 +204,7 @@ p{
     flex-direction: column;
     gap: 2vw;
     padding: 15px;
+    width: 95%;
     margin: 0px 0px 2vw;
   }
   .work__gif{
