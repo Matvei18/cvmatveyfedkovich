@@ -6,7 +6,11 @@ function App() {
       <div className="visit">
         <div className="about__me">
           <div className="img__me">
-            <img src="./img/me.png" alt="Matvey Fedkovich" title="Matvey Fedkovich"></img>
+            <img
+              src="./img/me.png"
+              alt="Matvey Fedkovich"
+              title="Matvey Fedkovich"
+            ></img>
           </div>
           <div>
             <p>
@@ -16,8 +20,8 @@ function App() {
             <p>
               I'm a 2nd course student of Belarusian State University of Faculty
               of Mechanics and Mathematics for web-developer and mathematician.
-              I have knowledge of such programming languages as C++, Transact
-              SQL, JavaScript and its library React. Worked in applications like
+              I have knowledge of such programming languages: C++, Transact SQL,
+              JavaScript and its library React. Worked in applications like
               Figma, Adobe Photoshop. Studied Web Design, Operational Systems
               and Networks.
             </p>
@@ -69,7 +73,6 @@ function App() {
           <p>Web page with many css properties</p>
         </div>
       </div>
-
     </div>
   );
 }
